@@ -75,8 +75,8 @@ The project demonstrates **end-to-end machine learning workflow**: data preproce
 
 ### 🔹 Clone the Repository
 ```bash
-git clone https://github.com/your-username/Fashion_Classification_Project_Using_CNN.git
-cd Fashion_Classification_Project_Using_CNN
+git clone https://github.com/your-username/Fashion_Classification_Project.git
+cd Fashion_Classification_Project
 ``` 
 ### 🔹 install dependencies
 ``` bash
